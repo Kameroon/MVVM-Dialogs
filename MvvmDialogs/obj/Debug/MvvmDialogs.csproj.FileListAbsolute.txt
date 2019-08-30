@@ -1,0 +1,17 @@
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\MvvmDialogs.dll.config
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\MvvmDialogs.dll
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\MvvmDialogs.pdb
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\obj\Debug\MvvmDialogs.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\obj\Debug\MvvmDialogs.dll
+C:\Users\Michael\Desktop\My Projects\MVVMModalDialog\MvvmDialogs\MvvmDialogs\obj\Debug\MvvmDialogs.pdb
